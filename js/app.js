@@ -126,35 +126,35 @@ $(function() {
 		},
 	});
 	var sections = new SectionCollection([
-		new SectionModel({
-			name: 'General',
-			categories: new CategoriesCollection([
-				new CategoryModel({
-					name: 'Neighborhoods',
-					icon: 'radar/radar_warehouse.png',
-					enabled: false,
-					url: 'data/neighborhoods.json',
-				}),
-				new CategoryModel({
-					name: 'Neutral',
-					icon: 'General/glitches.png',
-					enabled: true,
-					url: 'data/neutral.json',
-				}),
-				new CategoryModel({
-					name: 'Automotive',
-					icon: 'radar/radar_acsr_race_hotring.png',
-					enabled: true,
-					url: 'data/automotive.json',
-				}),
-				new CategoryModel({
-					name: 'Medical',
-					icon: 'radar/radar_hospital.png',
-					enabled: true,
-					url: 'data/medical.json',
-				}),
-			]),
-		}),
+		//new SectionModel({
+			//name: 'General',
+			//categories: new CategoriesCollection([
+			//	new CategoryModel({
+			//		name: 'Neighborhoods',
+			//		icon: 'radar/radar_warehouse.png',
+			//		enabled: false,
+			//		url: 'data/neighborhoods.json',
+			//	}),
+			//	new CategoryModel({
+			//		name: 'Neutral',
+			//		icon: 'General/glitches.png',
+			//		enabled: true,
+			//		url: 'data/neutral.json',
+			//	}),
+			//	new CategoryModel({
+			//		name: 'Automotive',
+			//		icon: 'radar/radar_acsr_race_hotring.png',
+			//		enabled: true,
+			//		url: 'data/automotive.json',
+			//	}),
+			//	new CategoryModel({
+			//		name: 'Medical',
+			//		icon: 'radar/radar_hospital.png',
+			//		enabled: true,
+			//		url: 'data/medical.json',
+			//	}),
+		//	]),
+	//	}),
 		new SectionModel({
 			name: '4.0',
 			categories: new CategoriesCollection([
@@ -189,37 +189,37 @@ $(function() {
 					url: 'data/restaurants.4.json',
 				}),
 			]),
-		}),
-		new SectionModel({
-			name: '3.0',
-			categories: new CategoriesCollection([
-				new CategoryModel({
-					name: 'Territories',
-					icon: 'General/wall-breach.png',
-					enabled: false,
-					url: 'data/territories.3.json',
-				}),
-				new CategoryModel({
-					name: 'Heists',
-					icon: 'radar/radar_heist.png',
-					enabled: false,
-					url: 'data/heists.3.json',
-				}),
-				new CategoryModel({
-					name: 'Legal',
-					icon: 'radar/radar_police_station.png',
-					enabled: false,
-					url: 'data/legal.3.json',
-				}),
-				new CategoryModel({
-					name: 'Restaurants',
-					icon: 'radar/radar_bar.png',
-					enabled: false,
-					url: 'data/restaurants.3.json',
-				}),
-			]),
-		}),
-	]);
+		});
+	//	new SectionModel({
+	//		name: '3.0',
+	//		categories: new CategoriesCollection([
+	//			new CategoryModel({
+	//				name: 'Territories',
+	//				icon: 'General/wall-breach.png',
+	//				enabled: false,
+	//				url: 'data/territories.3.json',
+	//			}),
+	//			new CategoryModel({
+	//				name: 'Heists',
+	//				icon: 'radar/radar_heist.png',
+	//				enabled: false,
+	//				url: 'data/heists.3.json',
+	//			}),
+	//			new CategoryModel({
+	//				name: 'Legal',
+	//				icon: 'radar/radar_police_station.png',
+	//				enabled: false,
+	//				url: 'data/legal.3.json',
+	//			}),
+	//			new CategoryModel({
+	//				name: 'Restaurants',
+	//				icon: 'radar/radar_bar.png',
+	//				enabled: false,
+	//				url: 'data/restaurants.3.json',
+	//			}),
+	//		]),
+	//	}),
+//	]);
 	
 	var showingLabels;
 	var CategoriesView = Backbone.View.extend({
