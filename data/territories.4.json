@@ -109,6 +109,119 @@
 			{"lat": -77.684, "lng": 2.464},
 			{"lat": -77.670, "lng": -4.359}
 		]
+	},
+	{
+		"type": "Free-Turf",
+		"title": "UNKNOWN",
+		"notes": "UNKNOWN",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?board/18-inoffizielle-fraktionsanträge/",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -73.494, "lng": -24.488},
+			{"lat": -72.893, "lng": -23.302},
+			{"lat": -72.708, "lng": -22.950},
+			{"lat": -72.419, "lng": -22.631},
+			{"lat": -72.272, "lng": -22.500},
+			{"lat": -71.904, "lng": -21.357},
+			{"lat": -72.534, "lng": -18.918},
+			{"lat": -72.770, "lng": -19.522},
+			{"lat": -72.945, "lng": -20.028},
+			{"lat": -73.073, "lng": -20.280},
+			{"lat": -73.220, "lng": -20.401},
+			{"lat": -73.528, "lng": -20.434},
+			{"lat": -73.739, "lng": -20.423},
+			{"lat": -73.831, "lng": -20.346},
+			{"lat": -74.131, "lng": -21.566},
+			{"lat": -73.892, "lng": -22.291},
+			{"lat": -73.852, "lng": -22.500}
+		]
+	},
+	{
+		"type": "Free-Turf",
+		"title": "UNKNOWN",
+		"notes": "UNKNOWN",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?board/18-inoffizielle-fraktionsanträge/",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -72.651, "lng": -18.500},
+			{"lat": -73.066, "lng": -19.830},
+			{"lat": -73.155, "lng": -19.972},
+			{"lat": -73.332, "lng": -19.972},
+			{"lat": -73.713, "lng": -19.983},
+			{"lat": -73.823, "lng": -19.906},
+			{"lat": -73.872, "lng": -19.698},
+			{"lat": -73.975, "lng": -19.225},
+			{"lat": -74.054, "lng": -18.863},
+			{"lat": -73.187, "lng": -16.259}
+		]
+	},
+	{
+		"type": "Free-Turf",
+		"title": "UNKNOWN",
+		"notes": "UNKNOWN",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?board/18-inoffizielle-fraktionsanträge/",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -72.324, "lng": -18.285},
+			{"lat": -71.981, "lng": -17.241},
+			{"lat": -71.889, "lng": -16.768},
+			{"lat": -71.875, "lng": -16.208},
+			{"lat": -71.851, "lng": -15.274},
+			{"lat": -71.861, "lng": -14.454},
+			{"lat": -71.467, "lng": -13.147},
+			{"lat": -71.432, "lng": -14.663},
+			{"lat": -71.460, "lng": -17.168},
+			{"lat": -71.540, "lng": -18.827},
+			{"lat": -71.929, "lng": -19.914}
+		]
+	},
+	{
+		"type": "Free-Turf",
+		"title": "UNKNOWN",
+		"notes": "UNKNOWN",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?board/18-inoffizielle-fraktionsanträge/",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -72.417, "lng": -17.800},
+			{"lat": -72.028, "lng": -16.889},
+			{"lat": -71.994, "lng": -16.493},
+			{"lat": -71.967, "lng": -16.021},
+			{"lat": -71.946, "lng": -15.098},
+			{"lat": -71.973, "lng": -14.713},
+			{"lat": -72.041, "lng": -14.351},
+			{"lat": -72.160, "lng": -13.922},
+			{"lat": -72.250, "lng": -13.757},
+			{"lat": -72.324, "lng": -13.832},
+			{"lat": -72.995, "lng": -15.699}
+		]
+	},
+	{
+		"type": "59 Brims",
+		"title": "HAT GANG OR NO GANG 🅱🤙",
+		"notes": "Die 59 Gangster Brims (59GB), 59 Bandits oder auch Hat Gang, die ehemals als Kilo Tray Ballas bekannt waren, ist eine überwiegend afroamerikanische Straßengang.",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?thread/1559-hat-gang-or-no-gang/",
+		"order": 0,
+		"strokecolor": "e7262b",
+		"fillcolor": "e7262b",
+		"latlngarray": [
+			{"lat": -73.138, "lng": -14.988},
+			{"lat": -73.428, "lng": -13.900},
+			{"lat": -73.516, "lng": -13.461},
+			{"lat": -73.513, "lng": -13.142},
+			{"lat": -73.381, "lng": -12.307},
+			{"lat": -73.103, "lng": -10.725},
+			{"lat": -73.023, "lng": -10.626},
+			{"lat": -72.942, "lng": -10.736},
+			{"lat": -72.406, "lng": -12.988}
+		]
 	}
 ]
 
