@@ -615,7 +615,7 @@ $(function() {
 
 function printArray() {
 	var msg = 'New YBN-Turfs:\n'
-	+ 'To Submit new Turfs, please open a Support-Ticket on the YBN Germany Discord'
+	+ 'To Submit new Turfs, please open a Support-Ticket on the YBN Germany Discord\n\n'
 	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
 	msg += '```json\n\t{\n\t\t"type": "Territories",'
 	+ '\n\t\t"title": "<edit this>",'
