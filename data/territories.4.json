@@ -1,8 +1,8 @@
 [
 {
 		"type": "Free-Turf",
-		"title": "Unknown",
-		"notes": "Unknown",
+		"title": "UNKNOWN",
+		"notes": "UNKNOWN",
 		"wiki_link": "https://ybn-germany.com/forum/index.php?board/18-inoffizielle-fraktionsanträge/",
 		"order": 0,
 		"strokecolor": "808080",
@@ -15,6 +15,99 @@
 			{"lat": -75.438, "lng": -10.049},
 			{"lat": -75.386, "lng": -10.577},
 			{"lat": -75.232, "lng": -12.005}
+		]
+	},
+	{
+		"type": "Samoan Gangster Crips",
+		"title": "SAMOAN TIKI BOYZ ♿",
+		"notes": "Die Samoan Gangster Crips (SGC) sind eine relativ kleine asiatische Straßengang, die in den Straßen von South Los Santos agiert.",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?thread/1574-samoan-tiki-boyz/",
+		"order": 0,
+		"strokecolor": "4c53eb",
+		"fillcolor": "4c53eb",
+		"latlngarray": [
+			{"lat": -75.458, "lng": -12.825},
+			{"lat": -75.295, "lng": -12.331},
+			{"lat": -75.505, "lng": -10.342},
+			{"lat": -75.590, "lng": -9.727},
+			{"lat": -75.680, "lng": -9.343},
+			{"lat": -75.997, "lng": -10.441},
+			{"lat": -76.116, "lng": -10.826},
+			{"lat": -76.208, "lng": -10.969},
+			{"lat": -76.305, "lng": -11.100},
+			{"lat": -76.320, "lng": -11.771},
+			{"lat": -76.315, "lng": -12.276},
+			{"lat": -76.132, "lng": -12.573},
+			{"lat": -75.971, "lng": -13.100},
+			{"lat": -75.183, "lng": -16.418},
+			{"lat": -75.016, "lng": -15.934},
+			{"lat": -74.850, "lng": -15.671},
+			{"lat": -74.569, "lng": -16.835},
+			{"lat": -74.354, "lng": -16.000},
+			{"lat": -75.135, "lng": -12.562},
+			{"lat": -75.361, "lng": -13.122}
+		]
+	},
+	{
+		"type": "Free-Turf",
+		"title": "UNKNOWN",
+		"notes": "UNKNOWN",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?board/18-inoffizielle-fraktionsanträge/",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -75.366, "lng": -6.903},
+			{"lat": -76.179, "lng": -9.760},
+			{"lat": -76.263, "lng": -9.991},
+			{"lat": -76.343, "lng": -10.056},
+			{"lat": -76.369, "lng": -9.738},
+			{"lat": -76.408, "lng": -9.232},
+			{"lat": -76.480, "lng": -8.738},
+			{"lat": -76.544, "lng": -8.244},
+			{"lat": -76.567, "lng": -8.101},
+			{"lat": -76.490, "lng": -7.650},
+			{"lat": -75.709, "lng": -5.146},
+			{"lat": -75.507, "lng": -5.948}
+		]
+	},
+	{
+		"type": "Free-Turf",
+		"title": "UNKNOWN",
+		"notes": "UNKNOWN",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?board/18-inoffizielle-fraktionsanträge/",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -76.650, "lng": -7.732},
+			{"lat": -76.868, "lng": -6.732},
+			{"lat": -77.111, "lng": -5.534},
+			{"lat": -77.174, "lng": -5.062},
+			{"lat": -77.184, "lng": -4.787},
+			{"lat": -77.182, "lng": -4.172},
+			{"lat": -77.138, "lng": -3.678},
+			{"lat": -77.062, "lng": -3.227},
+			{"lat": -76.578, "lng": -1.459},
+			{"lat": -76.088, "lng": -3.469},
+			{"lat": -75.835, "lng": -4.425},
+			{"lat": -75.783, "lng": -4.678}
+		]
+	},
+	{
+		"type": "Low Bottom Park Bloods",
+		"title": "WE THA AVENUES 🐶🤟🏿",
+		"notes": "Low Bottom Park Bloods (LBPB) oder auch Avenue Bullys genannt, ist ein überwiegend afroamerikanisches Set.",
+		"wiki_link": "https://ybn-germany.com/forum/index.php?thread/1567-we-tha-avenues/&postID=5642#post5642",
+		"order": 0,
+		"strokecolor": "a51217",
+		"fillcolor": "a51217",
+		"latlngarray": [
+			{"lat": -76.793, "lng": -1.206},
+			{"lat": -76.604, "lng": 0.871},
+			{"lat": -76.993, "lng": 2.442},
+			{"lat": -77.684, "lng": 2.464},
+			{"lat": -77.670, "lng": -4.359}
 		]
 	}
 ]
