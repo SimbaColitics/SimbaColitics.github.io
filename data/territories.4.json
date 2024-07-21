@@ -16,34 +16,6 @@
 			{"lat": -75.386, "lng": -10.577},
 			{"lat": -75.232, "lng": -12.005}
 		]
-	},
-	{
-		"type": "Samoan Gangster Crips",
-		"title": "SAMOAN TIKI BOYZ ♿",
-		"notes": "Die Samoan Gangster Crips (SGC) sind eine relativ kleine asiatische Straßengang, die in den Straßen von South Los Santos agiert.",
-		"wiki_link": "https://ybn-germany.com/forum/index.php?thread/1574-samoan-tiki-boyz/",
-		"order": 0,
-		"strokecolor": "d74760",
-		"fillcolor": "d74760",
-		"latlngarray": [
-			{"lat": -75.597, "lng": -9.241},
-			{"lat": -76.322, "lng": -10.999},
-			{"lat": -75.069, "lng": -17.734},
-			{"lat": -74.760, "lng": -16.822},
-			{"lat": -74.623, "lng": -16.327},
-			{"lat": -74.506, "lng": -16.866},
-			{"lat": -74.309, "lng": -15.943},
-			{"lat": -75.077, "lng": -12.383},
-			{"lat": -75.313, "lng": -13.141},
-			{"lat": -75.424, "lng": -12.647},
-			{"lat": -75.254, "lng": -12.032},
-			{"lat": -75.357, "lng": -11.010},
-			{"lat": -75.462, "lng": -10.043},
-			{"lat": -75.509, "lng": -9.681},
-			{"lat": -75.935, "lng": -10.318},
-			{"lat": -76.049, "lng": -10.636},
-			{"lat": -76.123, "lng": -10.867}
-		]
 	}
 ]
 
