@@ -189,7 +189,7 @@ $(function() {
 					url: 'data/restaurants.4.json',
 				}),
 			]),
-		});
+		}),
 	//	new SectionModel({
 	//		name: '3.0',
 	//		categories: new CategoriesCollection([
@@ -219,7 +219,7 @@ $(function() {
 	//			}),
 	//		]),
 	//	}),
-//	]);
+	]);
 	
 	var showingLabels;
 	var CategoriesView = Backbone.View.extend({
