@@ -566,5 +566,24 @@
 			{"lat": -59.906, "lng": 12.978},
 			{"lat": -59.657, "lng": 13.736}
 		]
+	},
+	{
+		"type": "Test-Gang",
+		"title": "Test-Gang",
+		"notes": "Test of the Gangs",
+		"wiki_link": "ybn-germany.com",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.737, "lng": -9.363},
+			{"lat": -74.869, "lng": -9.813},
+			{"lat": -75.077, "lng": -9.198},
+			{"lat": -75.195, "lng": -8.583},
+			{"lat": -75.285, "lng": -8.088},
+			{"lat": -75.125, "lng": -7.583},
+			{"lat": -74.963, "lng": -8.275},
+			{"lat": -74.800, "lng": -9.011}
+		]
 	}
 ]
