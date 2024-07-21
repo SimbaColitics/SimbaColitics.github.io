@@ -156,7 +156,7 @@ $(function() {
 		//	]),
 	//	}),
 		new SectionModel({
-			name: '4.0',
+			name: 'Turf Map',
 			categories: new CategoriesCollection([
 				new CategoryModel({
 					name: 'Territories',
